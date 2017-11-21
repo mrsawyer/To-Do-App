@@ -1,4 +1,3 @@
-#To-Do App
 
 ![alt text](screenshot.png "The Schedule page of R10")
 
